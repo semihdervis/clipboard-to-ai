@@ -1,6 +1,6 @@
 # Chat From Clipboard
 
-This project demonstrates how to use the GEMINI API to process text from the clipboard and place the result back into the clipboard.
+This project demonstrates how to use the GEMINI API to process text from the clipboard and place the result back into the clipboard. It allows you to interact with GEMINI without changing your screen.
 
 ## Setup
 
