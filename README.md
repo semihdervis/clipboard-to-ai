@@ -34,7 +34,7 @@ This project demonstrates how to use the GEMINI API to process text from the cli
 
 1. **Run the script:**
     ```sh
-    python clipboard.py
+    python main.py
     ```
 
 2. **How to use:**
