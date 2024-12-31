@@ -1,4 +1,4 @@
-# Gemini Test Project
+# Chat From Clipboard
 
 This project demonstrates how to use the GEMINI API to process text from the clipboard and place the result back into the clipboard.
 

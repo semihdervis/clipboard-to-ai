@@ -38,7 +38,6 @@ def process_selected_text():
 keyboard.add_hotkey("ctrl+shift+l", process_selected_text)
 
 print("Program is running. Select text and press Ctrl+Shift+L.")
-print("Press Ctrl+Q to stop the program.")
 
 # Keep the program running
 keyboard.wait("ctrl+q")
